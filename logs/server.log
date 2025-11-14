@@ -3,11 +3,9 @@
 > vite
 
 
-  VITE v5.4.20  ready in 316 ms
+  VITE v5.4.20  ready in 281 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.13.41:3000/
-The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-I4MZPW7S.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
-The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-XPR23Y44.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
-The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-I4MZPW7S.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
-The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-XPR23Y44.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+3:53:13 AM [vite] Pre-transform error: Transform failed with 1 error:
+/home/workspace/src/components/NoiseBG.jsx:6:80: ERROR: Unexpected ">"
